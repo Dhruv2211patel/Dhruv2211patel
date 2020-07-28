@@ -27,7 +27,7 @@
 - 👯 I’m looking to collaborate with MSP
 - 💬 Happy! to help, Ask me about Python,Html,Css & django. 
 - ⚡️ Fun-Fact: I started writing blogs, by publishing them on [Medium](https://medium.com/@yash007patel.dp)
-- 📫 How to reach me: [LinkdedIn](https://www.linkedin.com/in/dhruv2211patel/) , [Twitter](https://twitter.com/Dhruv2211patel?s=09) , [Discord]([Twitter](https://discord.com/channels/@Dhruv#5751)
+- 📫 How to reach me: [LinkdedIn](https://www.linkedin.com/in/dhruv2211patel/) , [Twitter](https://twitter.com/Dhruv2211patel?s=09) , [Discord](https://discord.com/channels/@Dhruv#5751)
 - 😄 Pronouns: He/Him
 
 
