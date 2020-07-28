@@ -1,5 +1,6 @@
 ### Hey!👋 I'm Dhruv
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Machine Learning & AI
