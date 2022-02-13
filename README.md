@@ -24,7 +24,6 @@
 
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Machine Learning & AI
-- 👯 I’m looking to collaborate with MSP
 - 💬 Happy! to help, Ask me about Python,Html,Css & django. 
 - ⚡️ Fun-Fact: I started writing blogs, by publishing them on [Medium](https://medium.com/@yash007patel.dp)
 - 📫 How to reach me: yash007pate.dp@gmail.com ,   [Discord](https://discord.com/channels/@Dhruv#5751)
