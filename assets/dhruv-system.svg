@@ -1,48 +1,48 @@
-<svg width="420" height="360" viewBox="0 0 420 360"
+<svg width="360" height="300" viewBox="0 0 360 300"
      xmlns="http://www.w3.org/2000/svg">
 
   <style>
     .title {
       fill: #58A6FF;
       font-family: monospace;
-      font-size: 15px;
+      font-size: 17px;
       font-weight: 700;
     }
 
     .label {
       fill: #c9d1d9;
       font-family: monospace;
-      font-size: 13px;
-      font-weight: 600;
+      font-size: 14px;
+      font-weight: 700;
     }
 
     .sub {
       fill: #8b949e;
       font-family: monospace;
-      font-size: 10px;
+      font-size: 10.5px;
     }
 
     .box {
       fill: #161b22;
       stroke: #30363d;
-      stroke-width: 1.5;
+      stroke-width: 1.8;
     }
 
     .core {
       fill: #0d1117;
       stroke: #58A6FF;
-      stroke-width: 2;
+      stroke-width: 2.4;
     }
 
     .line {
       stroke: #58A6FF;
-      stroke-width: 2;
+      stroke-width: 2.5;
       stroke-dasharray: 7 7;
-      animation: flow 1.5s linear infinite;
+      animation: flow 1.4s linear infinite;
     }
 
     .pulse {
-      animation: pulse 2s ease-in-out infinite;
+      animation: pulse 1.8s ease-in-out infinite;
       transform-origin: center;
     }
 
@@ -54,7 +54,7 @@
 
     @keyframes pulse {
       0%, 100% {
-        opacity: .55;
+        opacity: .45;
       }
       50% {
         opacity: 1;
@@ -63,64 +63,62 @@
   </style>
 
   <!-- Background -->
-  <rect width="420" height="360" rx="18" fill="#0d1117"/>
+  <rect width="360" height="300" rx="16" fill="#0d1117"/>
 
   <!-- Header -->
-  <text x="210" y="32" text-anchor="middle" class="title">
+  <text x="180" y="25" text-anchor="middle" class="title">
     dhruv.engineering
   </text>
 
-  <text x="210" y="50" text-anchor="middle" class="sub">
+  <text x="180" y="42" text-anchor="middle" class="sub">
     SYSTEM ARCHITECTURE
   </text>
 
   <!-- AI -->
-  <rect x="105" y="72" width="210" height="58" rx="10" class="box"/>
+  <rect x="50" y="58" width="260" height="58" rx="10" class="box"/>
 
-  <text x="210" y="96" text-anchor="middle" class="label">
+  <text x="180" y="82" text-anchor="middle" class="label">
     AI / LLM SYSTEMS
   </text>
 
-  <text x="210" y="115" text-anchor="middle" class="sub">
+  <text x="180" y="101" text-anchor="middle" class="sub">
     RAG • Agents • ML • Inference
   </text>
 
   <!-- Connection 1 -->
-  <line x1="210" y1="130" x2="210" y2="166" class="line"/>
-
-  <circle cx="210" cy="148" r="5" fill="#58A6FF" class="pulse"/>
+  <line x1="180" y1="116" x2="180" y2="145" class="line"/>
+  <circle cx="180" cy="131" r="5" fill="#58A6FF" class="pulse"/>
 
   <!-- Backend -->
-  <rect x="80" y="166" width="260" height="64" rx="10" class="core"/>
+  <rect x="32" y="145" width="296" height="64" rx="11" class="core"/>
 
-  <text x="210" y="192" text-anchor="middle" class="label">
+  <text x="180" y="171" text-anchor="middle" class="label">
     BACKEND SYSTEMS
   </text>
 
-  <text x="210" y="213" text-anchor="middle" class="sub">
+  <text x="180" y="191" text-anchor="middle" class="sub">
     APIs • Microservices • Events
   </text>
 
   <!-- Connection 2 -->
-  <line x1="210" y1="230" x2="210" y2="266" class="line"/>
-
-  <circle cx="210" cy="248" r="5" fill="#58A6FF" class="pulse"/>
+  <line x1="180" y1="209" x2="180" y2="235" class="line"/>
+  <circle cx="180" cy="222" r="5" fill="#58A6FF" class="pulse"/>
 
   <!-- Infrastructure -->
-  <rect x="105" y="266" width="210" height="58" rx="10" class="box"/>
+  <rect x="50" y="235" width="260" height="46" rx="10" class="box"/>
 
-  <text x="210" y="290" text-anchor="middle" class="label">
+  <text x="180" y="255" text-anchor="middle" class="label">
     DISTRIBUTED INFRA
   </text>
 
-  <text x="210" y="309" text-anchor="middle" class="sub">
+  <text x="180" y="272" text-anchor="middle" class="sub">
     AWS • K8s • Kafka • Terraform
   </text>
 
   <!-- Status -->
-  <circle cx="145" cy="342" r="4" fill="#3fb950" class="pulse"/>
+  <circle cx="118" cy="292" r="4" fill="#3fb950" class="pulse"/>
 
-  <text x="158" y="346" class="sub">
+  <text x="130" y="296" class="sub">
     SYSTEM STATUS: OPERATIONAL
   </text>
 
