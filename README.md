@@ -10,7 +10,6 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhruv_Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv2211patel/)
-[![GitHub](https://img.shields.io/badge/GitHub-Dhruv2211patel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruv2211patel)
 ![Profile Views](https://komarev.com/ghpvc/?username=Dhruv2211patel&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
