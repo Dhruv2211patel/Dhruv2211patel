@@ -263,7 +263,7 @@ Built a full-stack financial management system with authenticated expense workfl
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Dhruv2211patel/Dhruv2211patel/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+<img src="https://raw.githubusercontent.com/Dhruv2211patel/Dhruv2211patel/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
 
 </div>
 
