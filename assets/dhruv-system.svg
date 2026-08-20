@@ -5,45 +5,44 @@
     .title {
       fill: #58A6FF;
       font-family: monospace;
-      font-size: 17px;
+      font-size: 20px;
       font-weight: 700;
     }
 
     .label {
       fill: #c9d1d9;
       font-family: monospace;
-      font-size: 14px;
+      font-size: 16px;
       font-weight: 700;
     }
 
     .sub {
       fill: #8b949e;
       font-family: monospace;
-      font-size: 10.5px;
+      font-size: 11px;
     }
 
     .box {
       fill: #161b22;
       stroke: #30363d;
-      stroke-width: 1.8;
+      stroke-width: 2;
     }
 
     .core {
       fill: #0d1117;
       stroke: #58A6FF;
-      stroke-width: 2.4;
+      stroke-width: 3;
     }
 
     .line {
       stroke: #58A6FF;
-      stroke-width: 2.5;
+      stroke-width: 3;
       stroke-dasharray: 7 7;
       animation: flow 1.4s linear infinite;
     }
 
     .pulse {
       animation: pulse 1.8s ease-in-out infinite;
-      transform-origin: center;
     }
 
     @keyframes flow {
@@ -54,7 +53,7 @@
 
     @keyframes pulse {
       0%, 100% {
-        opacity: .45;
+        opacity: .4;
       }
       50% {
         opacity: 1;
@@ -62,63 +61,135 @@
     }
   </style>
 
-  <!-- Background -->
-  <rect width="360" height="300" rx="16" fill="#0d1117"/>
 
-  <!-- Header -->
-  <text x="180" y="25" text-anchor="middle" class="title">
+  <!-- HEADER -->
+
+  <text x="180" y="22"
+        text-anchor="middle"
+        class="title">
     dhruv.engineering
   </text>
 
-  <text x="180" y="42" text-anchor="middle" class="sub">
+  <text x="180" y="39"
+        text-anchor="middle"
+        class="sub">
     SYSTEM ARCHITECTURE
   </text>
 
-  <!-- AI -->
-  <rect x="50" y="58" width="260" height="58" rx="10" class="box"/>
 
-  <text x="180" y="82" text-anchor="middle" class="label">
+  <!-- AI / LLM SYSTEMS -->
+
+  <rect x="22"
+        y="54"
+        width="316"
+        height="58"
+        rx="11"
+        class="box"/>
+
+  <text x="180"
+        y="79"
+        text-anchor="middle"
+        class="label">
     AI / LLM SYSTEMS
   </text>
 
-  <text x="180" y="101" text-anchor="middle" class="sub">
+  <text x="180"
+        y="99"
+        text-anchor="middle"
+        class="sub">
     RAG • Agents • ML • Inference
   </text>
 
-  <!-- Connection 1 -->
-  <line x1="180" y1="116" x2="180" y2="145" class="line"/>
-  <circle cx="180" cy="131" r="5" fill="#58A6FF" class="pulse"/>
 
-  <!-- Backend -->
-  <rect x="32" y="145" width="296" height="64" rx="11" class="core"/>
+  <!-- CONNECTION -->
 
-  <text x="180" y="171" text-anchor="middle" class="label">
+  <line x1="180"
+        y1="112"
+        x2="180"
+        y2="139"
+        class="line"/>
+
+  <circle cx="180"
+          cy="126"
+          r="6"
+          fill="#58A6FF"
+          class="pulse"/>
+
+
+  <!-- BACKEND SYSTEMS -->
+
+  <rect x="8"
+        y="139"
+        width="344"
+        height="66"
+        rx="12"
+        class="core"/>
+
+  <text x="180"
+        y="166"
+        text-anchor="middle"
+        class="label">
     BACKEND SYSTEMS
   </text>
 
-  <text x="180" y="191" text-anchor="middle" class="sub">
+  <text x="180"
+        y="188"
+        text-anchor="middle"
+        class="sub">
     APIs • Microservices • Events
   </text>
 
-  <!-- Connection 2 -->
-  <line x1="180" y1="209" x2="180" y2="235" class="line"/>
-  <circle cx="180" cy="222" r="5" fill="#58A6FF" class="pulse"/>
 
-  <!-- Infrastructure -->
-  <rect x="50" y="235" width="260" height="46" rx="10" class="box"/>
+  <!-- CONNECTION -->
 
-  <text x="180" y="255" text-anchor="middle" class="label">
+  <line x1="180"
+        y1="205"
+        x2="180"
+        y2="231"
+        class="line"/>
+
+  <circle cx="180"
+          cy="218"
+          r="6"
+          fill="#58A6FF"
+          class="pulse"/>
+
+
+  <!-- DISTRIBUTED INFRA -->
+
+  <rect x="22"
+        y="231"
+        width="316"
+        height="54"
+        rx="11"
+        class="box"/>
+
+  <text x="180"
+        y="254"
+        text-anchor="middle"
+        class="label">
     DISTRIBUTED INFRA
   </text>
 
-  <text x="180" y="272" text-anchor="middle" class="sub">
+  <text x="180"
+        y="274"
+        text-anchor="middle"
+        class="sub">
     AWS • K8s • Kafka • Terraform
   </text>
 
-  <!-- Status -->
-  <circle cx="118" cy="292" r="4" fill="#3fb950" class="pulse"/>
 
-  <text x="130" y="296" class="sub">
+  <!-- STATUS -->
+
+  <circle cx="91"
+          cy="295"
+          r="4"
+          fill="#3fb950"
+          class="pulse"/>
+
+  <text x="103"
+        y="299"
+        class="sub">
     SYSTEM STATUS: OPERATIONAL
   </text>
 
