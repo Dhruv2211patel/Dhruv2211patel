@@ -6,7 +6,7 @@
 
 ### Software Engineer · AI Systems · Distributed Systems · Cloud Infrastructure
 
-<img src="./assets/dhruv-system.svg" width="100%" alt="Dhruv Engineering Architecture">
+
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhruv_Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv2211patel/)
