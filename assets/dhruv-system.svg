@@ -1,0 +1,127 @@
+<svg width="420" height="360" viewBox="0 0 420 360"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .title {
+      fill: #58A6FF;
+      font-family: monospace;
+      font-size: 15px;
+      font-weight: 700;
+    }
+
+    .label {
+      fill: #c9d1d9;
+      font-family: monospace;
+      font-size: 13px;
+      font-weight: 600;
+    }
+
+    .sub {
+      fill: #8b949e;
+      font-family: monospace;
+      font-size: 10px;
+    }
+
+    .box {
+      fill: #161b22;
+      stroke: #30363d;
+      stroke-width: 1.5;
+    }
+
+    .core {
+      fill: #0d1117;
+      stroke: #58A6FF;
+      stroke-width: 2;
+    }
+
+    .line {
+      stroke: #58A6FF;
+      stroke-width: 2;
+      stroke-dasharray: 7 7;
+      animation: flow 1.5s linear infinite;
+    }
+
+    .pulse {
+      animation: pulse 2s ease-in-out infinite;
+      transform-origin: center;
+    }
+
+    @keyframes flow {
+      to {
+        stroke-dashoffset: -28;
+      }
+    }
+
+    @keyframes pulse {
+      0%, 100% {
+        opacity: .55;
+      }
+      50% {
+        opacity: 1;
+      }
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="420" height="360" rx="18" fill="#0d1117"/>
+
+  <!-- Header -->
+  <text x="210" y="32" text-anchor="middle" class="title">
+    dhruv.engineering
+  </text>
+
+  <text x="210" y="50" text-anchor="middle" class="sub">
+    SYSTEM ARCHITECTURE
+  </text>
+
+  <!-- AI -->
+  <rect x="105" y="72" width="210" height="58" rx="10" class="box"/>
+
+  <text x="210" y="96" text-anchor="middle" class="label">
+    AI / LLM SYSTEMS
+  </text>
+
+  <text x="210" y="115" text-anchor="middle" class="sub">
+    RAG • Agents • ML • Inference
+  </text>
+
+  <!-- Connection 1 -->
+  <line x1="210" y1="130" x2="210" y2="166" class="line"/>
+
+  <circle cx="210" cy="148" r="5" fill="#58A6FF" class="pulse"/>
+
+  <!-- Backend -->
+  <rect x="80" y="166" width="260" height="64" rx="10" class="core"/>
+
+  <text x="210" y="192" text-anchor="middle" class="label">
+    BACKEND SYSTEMS
+  </text>
+
+  <text x="210" y="213" text-anchor="middle" class="sub">
+    APIs • Microservices • Events
+  </text>
+
+  <!-- Connection 2 -->
+  <line x1="210" y1="230" x2="210" y2="266" class="line"/>
+
+  <circle cx="210" cy="248" r="5" fill="#58A6FF" class="pulse"/>
+
+  <!-- Infrastructure -->
+  <rect x="105" y="266" width="210" height="58" rx="10" class="box"/>
+
+  <text x="210" y="290" text-anchor="middle" class="label">
+    DISTRIBUTED INFRA
+  </text>
+
+  <text x="210" y="309" text-anchor="middle" class="sub">
+    AWS • K8s • Kafka • Terraform
+  </text>
+
+  <!-- Status -->
+  <circle cx="145" cy="342" r="4" fill="#3fb950" class="pulse"/>
+
+  <text x="158" y="346" class="sub">
+    SYSTEM STATUS: OPERATIONAL
+  </text>
+
+</svg>
