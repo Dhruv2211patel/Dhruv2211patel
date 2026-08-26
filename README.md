@@ -168,7 +168,7 @@
 <tr>
 <td valign="top">
 
-<img src="./assets/projects/industrial-intelligence.png" width="100%" alt="Industrial Intelligence project visual">
+<img src="./assets/projects/industrial-intelligence-command-center.png" width="100%" alt="Aerospace predictive-maintenance command center">
 
 ### Industrial Intelligence
 
