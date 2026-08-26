@@ -166,10 +166,11 @@
 
 <table width="100%">
 <tr>
+<td valign="top">
 
-<td width="50%" valign="top">
+<img src="./assets/projects/industrial-intelligence.png" width="100%" alt="Industrial Intelligence project visual">
 
-### 🧠 Industrial Intelligence
+### Industrial Intelligence
 
 **Multi-Agent Predictive Maintenance System**
 
@@ -182,59 +183,6 @@ Built a multi-agent decision system combining predictive ML, RAG, and a knowledg
 `agents` `RAG` `knowledge-graph`
 
 </td>
-
-<td width="50%" valign="top">
-
-### 🛰️ Cognitive AI Platform
-
-**Multimodal AI Ingestion & Retrieval**
-
-`FastAPI` `Whisper` `BART` `PostgreSQL` `AWS`
-
-Designed an event-driven pipeline that ingests voice, email, and calendar data, converts it into searchable context, and exposes it to AI agents through semantic retrieval.
-
-**5K+ events/day** · **95%+ retrieval accuracy**
-
-`multimodal` `retrieval` `distributed-systems`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚡ Real-Time ML Systems
-
-**Production ML Inference Architecture**
-
-`PyTorch` `FastAPI` `WebSockets` `AWS` `Terraform`
-
-Engineered low-latency model-serving services for real-time risk prediction, with streaming updates, cloud deployment, and automated infrastructure.
-
-**<200ms inference** · **87% prediction accuracy**
-
-`model-serving` `real-time` `MLOps`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💸 MoneyMindAI
-
-**Full-Stack Financial Platform**
-
-`Next.js` `TypeScript` `React` `MongoDB` `Jest`
-
-Built a full-stack financial management system with authenticated expense workflows, modular server actions, persistent data, automated testing, and CI.
-
-**Full-stack architecture** · **Automated CI/testing**
-
-`full-stack` `product-engineering` `testing`
-
-</td>
-
 </tr>
 </table>
 
