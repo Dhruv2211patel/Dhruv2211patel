@@ -10,11 +10,12 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhruv_Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv2211patel/)
-![Profile Views](https://komarev.com/ghpvc/?username=Dhruv2211patel&style=for-the-badge&label=PROFILE+VIEWS)
+<a href="#readme"><img src="https://komarev.com/ghpvc/?username=Dhruv2211patel&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"></a>
 
 </div>
 
 ---
+<a id="architecture"></a>
 ## `$ cat /etc/dhruv`
 
 <table width="100%">
@@ -45,7 +46,7 @@
 
 <td width="45%" align="center" valign="middle">
 
-<img src="./assets/dhruv-system.svg" width="100%" alt="Dhruv Engineering Architecture">
+<a href="#architecture"><img src="./assets/dhruv-system.svg" width="100%" alt="Dhruv Engineering Architecture"></a>
 
 </td>
 
@@ -63,6 +64,7 @@
 </div>
 ---
 
+<a id="tech-arsenal"></a>
 # `~/tech-arsenal`
 
 <table>
@@ -73,7 +75,7 @@
 ### 💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,go,java,js,ts,cpp,bash&theme=dark" />
+<a href="#tech-arsenal"><img src="https://skillicons.dev/icons?i=python,go,java,js,ts,cpp,bash&theme=dark" alt="Programming languages" /></a>
 </p>
 
 <p align="center">
@@ -88,7 +90,7 @@
 ### ⚙️ Backend · Distributed · Data
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,spring,kafka,postgres,mysql,mongodb,redis,supabase&theme=dark" />
+<a href="#tech-arsenal"><img src="https://skillicons.dev/icons?i=fastapi,spring,kafka,postgres,mysql,mongodb,redis,supabase&theme=dark" alt="Backend and data technologies" /></a>
 </p>
 
 <p align="center">
@@ -108,7 +110,7 @@
 ### ☁️ Cloud · Infrastructure
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,git,linux&theme=dark" />
+<a href="#tech-arsenal"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,git,linux&theme=dark" alt="Cloud and infrastructure technologies" /></a>
 </p>
 
 <p align="center">
@@ -124,7 +126,7 @@
 ### 🤖 AI · ML · LLM Systems
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+<a href="#tech-arsenal"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI and machine learning technologies" /></a>
 </p>
 
 <p align="center">
@@ -192,11 +194,12 @@ Built a real-time platform combining failure prediction, remaining-useful-life e
 
 ---
 
+<a id="github-activity"></a>
 # `$ github --activity`
 
 <div align="center">
 
-<img width="100%" src="./assets/github-activity.svg" alt="Dhruv's public GitHub activity graph" />
+<a href="#github-activity"><img width="100%" src="./assets/github-activity.svg" alt="Dhruv's public GitHub activity graph" /></a>
 
 </div>
 
@@ -210,11 +213,12 @@ Built a real-time platform combining failure prediction, remaining-useful-life e
 
 ---
 
+<a id="contribution-snake"></a>
 # `$ ./contribution-snake`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Dhruv2211patel/Dhruv2211patel/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+<a href="#contribution-snake"><img src="https://raw.githubusercontent.com/Dhruv2211patel/Dhruv2211patel/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" /></a>
 
 </div>
 
