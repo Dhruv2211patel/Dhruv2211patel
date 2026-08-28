@@ -168,19 +168,21 @@
 <tr>
 <td valign="top">
 
-<img src="./assets/projects/industrial-intelligence-command-center.png" width="100%" alt="Aerospace predictive-maintenance command center">
+<a href="https://github.com/Dhruv2211patel/AeroIntelligence-Predictive-Maintenance">
+  <img src="./assets/projects/industrial-intelligence-command-center.png" width="100%" alt="AeroIntelligence aerospace predictive-maintenance command center">
+</a>
 
-### Industrial Intelligence
+### [AeroIntelligence — Predictive Maintenance](https://github.com/Dhruv2211patel/AeroIntelligence-Predictive-Maintenance)
 
-**Multi-Agent Predictive Maintenance System**
+**Aerospace Predictive-Maintenance Command Center**
 
-`LangGraph` `LangChain` `Neo4j` `ChromaDB` `Python`
+`Python` `Streamlit` `scikit-learn` `Plotly` `MATLAB`
 
-Built a multi-agent decision system combining predictive ML, RAG, and a knowledge graph to reason over equipment telemetry and maintenance context.
+Built a real-time platform combining failure prediction, remaining-useful-life estimation, interactive 3D engine simulation, live telemetry, and engineering analysis.
 
-**93% prediction accuracy** · **53% downtime reduction**
+**96.1% failure accuracy** · **77.2% R² for RUL** · **24K+ sensor observations**
 
-`agents` `RAG` `knowledge-graph`
+[`View source →`](https://github.com/Dhruv2211patel/AeroIntelligence-Predictive-Maintenance)
 
 </td>
 </tr>
