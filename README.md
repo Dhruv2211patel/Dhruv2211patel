@@ -194,7 +194,7 @@ Built a real-time platform combining failure prediction, remaining-useful-life e
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Dhruv2211patel&theme=github-dark-blue&hide_border=true&background=0D1117" alt="Dhruv's GitHub streak" />
+<img width="100%" src="./assets/github-activity.svg" alt="Dhruv's public GitHub activity graph" />
 
 </div>
 
