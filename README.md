@@ -172,7 +172,9 @@
   <img src="./assets/projects/industrial-intelligence-command-center.png" width="100%" alt="AeroIntelligence aerospace predictive-maintenance command center">
 </a>
 
-### [AeroIntelligence — Predictive Maintenance](https://github.com/Dhruv2211patel/AeroIntelligence-Predictive-Maintenance)
+<a href="https://github.com/Dhruv2211patel/AeroIntelligence-Predictive-Maintenance">
+  <img src="./assets/projects/aerointelligence-wordmark.svg" width="100%" alt="AeroIntelligence — Aerospace Predictive Maintenance Platform">
+</a>
 
 **Aerospace Predictive-Maintenance Command Center**
 
